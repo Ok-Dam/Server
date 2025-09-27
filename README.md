@@ -2,8 +2,8 @@
 
 ### 
 1. 컴퓨터에 `node.js` 설치
-2. cmd > 디렉토리 이동 > npm install
-3. 실행 시에는 디렉토리에서 npm start만
+2. `cmd` > 디렉토리 이동 > `npm install`
+3. 실행 시에는 디렉토리에서 `npm start`만
 
 ### 과거 설정
 1. 컴퓨터에 `node.js` 설치
